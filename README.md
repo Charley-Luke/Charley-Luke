@@ -2,7 +2,7 @@
 
 <!-- Я -->
 <div align="center">
-  <img src="assets/photo.jpg" alt="Это я" width="200" height="200" style="border-radius: 50%;"/>
+  <img src="https://github.com/Charley-Luke/Charley-Luke/blob/main/%D0%9F%D0%BE%D0%BD%D0%B8.jpg" alt="Это я" width="200" height="200" style="border-radius: 50%;"/>
 </div>
 
 ## 🧑‍💻 Обо мне
@@ -35,7 +35,7 @@
 
 <!-- Картинка -->
 <div align="center">
-  <img src="" alt="Картинка муд" width="400"/>
+  <img src="https://github.com/Charley-Luke/Charley-Luke/blob/main/%D0%A0%D0%B5%D0%B9%D0%B3%D0%B0%D0%BD.jpg" alt="Картинка муд" width="400"/>
 </div>
 
 ## 📱 Свяжитесь со мной
