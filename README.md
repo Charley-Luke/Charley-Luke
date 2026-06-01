@@ -34,8 +34,6 @@
 
 🔗 [Посмотреть демо](https://charley-luke.github.io/mafia-site/)
 
-### Раздел в разработке ✍️
-
 <!-- Картинка -->
 <div align="center">
   <img src="https://github.com/Charley-Luke/Charley-Luke/blob/main/%D0%A0%D0%B5%D0%B9%D0%B3%D0%B0%D0%BD.jpg" alt="Картинка муд" width="400"/>
